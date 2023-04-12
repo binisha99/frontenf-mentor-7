@@ -17,6 +17,7 @@ body {
   background-color: var(--Red);
   background-size: cover;
   background-repeat: no-repeat;
+  min-height: 100vh;
 }
 section {
   max-width: 144rem;
